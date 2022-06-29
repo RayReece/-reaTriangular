@@ -1,0 +1,11 @@
+C:\Users\raiany.iosilva\OneDrive - SENAC - SP\Documentos\c9\ÀreaTriangular\ÀreaTriangular\bin\Debug\ÀreaTriangular.exe.config
+C:\Users\raiany.iosilva\OneDrive - SENAC - SP\Documentos\c9\ÀreaTriangular\ÀreaTriangular\bin\Debug\ÀreaTriangular.exe
+C:\Users\raiany.iosilva\OneDrive - SENAC - SP\Documentos\c9\ÀreaTriangular\ÀreaTriangular\bin\Debug\ÀreaTriangular.pdb
+C:\Users\raiany.iosilva\OneDrive - SENAC - SP\Documentos\c9\ÀreaTriangular\ÀreaTriangular\obj\Debug\ÀreaTriangular.csproj.AssemblyReference.cache
+C:\Users\raiany.iosilva\OneDrive - SENAC - SP\Documentos\c9\ÀreaTriangular\ÀreaTriangular\obj\Debug\ÀreaTriangular.csproj.SuggestedBindingRedirects.cache
+C:\Users\raiany.iosilva\OneDrive - SENAC - SP\Documentos\c9\ÀreaTriangular\ÀreaTriangular\obj\Debug\ÀreaTriangular.Form1.resources
+C:\Users\raiany.iosilva\OneDrive - SENAC - SP\Documentos\c9\ÀreaTriangular\ÀreaTriangular\obj\Debug\ÀreaTriangular.Properties.Resources.resources
+C:\Users\raiany.iosilva\OneDrive - SENAC - SP\Documentos\c9\ÀreaTriangular\ÀreaTriangular\obj\Debug\ÀreaTriangular.csproj.GenerateResource.cache
+C:\Users\raiany.iosilva\OneDrive - SENAC - SP\Documentos\c9\ÀreaTriangular\ÀreaTriangular\obj\Debug\ÀreaTriangular.csproj.CoreCompileInputs.cache
+C:\Users\raiany.iosilva\OneDrive - SENAC - SP\Documentos\c9\ÀreaTriangular\ÀreaTriangular\obj\Debug\ÀreaTriangular.exe
+C:\Users\raiany.iosilva\OneDrive - SENAC - SP\Documentos\c9\ÀreaTriangular\ÀreaTriangular\obj\Debug\ÀreaTriangular.pdb
